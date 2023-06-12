@@ -4,9 +4,11 @@
 
 Speech to Art using AI is an innovative project that aims to inspire and assist artists by transforming spoken ideas into unique, generated pieces of art. Utilizing deep learning technologies, this system employs speech recognition and text-to-image generation to create art from verbal prompts. This tool is user-friendly and intuitive, making it ideal for artists seeking fresh perspectives and inspiration.
 
-![Uploading Screen Shot 2023-06-12 at 12.24.39.png…]()
+<img width="389" alt="Screen Shot 2023-06-12 at 12 28 35" src="https://github.com/omniaelmenshawy/Speech_to_Image_Capstone_Project/assets/77496383/58f51d61-423a-4f9c-94c4-99e8cd9b9a9c">
+
 
 _Image 1: User Interface asking the user to start recording_
+
 
 ## Project Details
 
