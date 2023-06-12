@@ -1,4 +1,3 @@
-# Speech_to_Image_Capstone_Project
 
 # Speech to Art using AI
 
